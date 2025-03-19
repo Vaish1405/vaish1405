@@ -50,7 +50,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Web_Development-%2300B2A9.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Web Development"/>
   <img src="https://img.shields.io/badge/UI/UX_Design-%23F7B500.svg?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design"/>
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
