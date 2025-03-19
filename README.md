@@ -25,6 +25,7 @@ Hey there! 👋 I'm Vaishnavi Sen, a passionate developer who loves building coo
 ---
 
 🔥 Let's build something awesome together! 😎
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vaish1405&show_icons=true&theme=gotham" alt="vaishnavi-sen" />
 
 
 <!--
