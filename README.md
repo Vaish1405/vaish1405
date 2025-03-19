@@ -24,9 +24,12 @@ Hey there! 👋 I'm Vaishnavi Sen, a passionate developer who loves building coo
 
 ---
 
-🔥 Let's build something awesome together! 😎
+## 📊 GitHub Stats:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vaish1405&show_icons=true&theme=gotham" alt="vaishnavi-sen" />
 
+---
+
+🔥 Let's build something awesome together! 😎
 
 <!--
 **Vaish1405/vaish1405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
