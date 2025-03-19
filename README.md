@@ -6,7 +6,7 @@
 - 🔭 Currently building **AI Text Detection Algorithm & Cocoa Disease Detection**  
 - 🤝 Open to collaborations on **Web Development & Machine Learning Projects**  
 - 📱 Learning **Mobile App Development**  
-- 🌍 I can write in **4 languages** (both code & human 😉)  
+- 🌍 I can write in **4 languages** (human 😉)  
 
 ---
 
@@ -21,8 +21,8 @@
 
 ## 🚀 Tech Stack  
 ### 💻 Programming Languages  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+[Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+[C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
@@ -36,8 +36,6 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vaish1405&show_icons=true&theme=blue_navy" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaish1405&theme=blue_navy" alt="GitHub Streak" />
 </p>  
 
 ---
