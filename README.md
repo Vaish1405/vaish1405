@@ -1,10 +1,10 @@
 # 💫 About Me:
 Hey there! 👋 I'm Vaishnavi Sen, a passionate developer who loves building cool things with technology. 🚀
 
-- 🔭 I'm currently working on **AI Text Detection Algorithm and Cocoa Disease Detection**
-- 🤝 I'm looking to collaborate on **Web Development and Machine Learning Projects**
-- 🌱 I'm currently learning **Mobile App Development**
-- ⚡ Fun fact: **I can write in 4 languages**
+🔭 I'm currently working on **AI Text Detection Algorithm and Cocoa Disease Detection**
+🤝 I'm looking to collaborate on **Web Development and Machine Learning Projects**
+🌱 I'm currently learning **Mobile App Development**
+⚡ Fun fact: **I can write in 4 languages**
 
 ---
 
