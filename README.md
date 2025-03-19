@@ -40,8 +40,6 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vaish1405&show_icons=true&theme=blue_navy" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaish1405&theme=blue_navy" alt="GitHub Streak" />
 </p>  
 
 ---
