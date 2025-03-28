@@ -3,7 +3,7 @@
 
 🌟 **Bringing Ideas to Life with Code** 🚀  
 
-- 🔭 Currently building **AI Text Detection Algorithm & Cocoa Disease Detection**  
+- 🔭 Currently building **AI Text Detection & Cocoa Disease Detection Algorithms**  
 - 🤝 Open to collaborations on **Web Development & Machine Learning Projects**  
 - 📱 Learning **Mobile App Development**  
 - 🌍 I can write in **4 languages** (human 😉)  
