@@ -1,5 +1,5 @@
 # 💫 Hey, I'm Vaishnavi Sen!  
-### 👨‍💻 Passionate Developer | ML Enthusiast | Web Wizard  
+### 👨‍💻 Passionate Developer | ML Enthusiast | UI/UX Wizard  
 
 🌟 **Bringing Ideas to Life with Code** 🚀  
 
