@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/FrozenFlask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Frozen Flask"/>
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 </p>
