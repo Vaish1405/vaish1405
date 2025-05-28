@@ -67,7 +67,8 @@
 - [**Machine Learning Specialization** - Coursera](https://www.coursera.org/specializations/machine-learning)
 - [**Certified Web Developer** - FreeCodeCamp](https://www.freecodecamp.org/)
 -->
-- **First Place Winner in App Jam 2023 and AI Jam 2024**  
+- **First Place Winner in App Jam 2023 and AI Jam 2024**
+- **Distinguished Junior Award, CSUN AIS & AISA**
 - **Third Place in SS12 Code for Cause Accessibility Competition**  
 
 ---
