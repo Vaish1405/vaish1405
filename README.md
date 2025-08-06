@@ -69,7 +69,8 @@
 -->
 - **First Place Winner in App Jam 2023 and AI Jam 2024**
 - **Distinguished Junior Award, CSUN AIS & AISA**
-- **Third Place in SS12 Code for Cause Accessibility Competition**  
+- **Third Place in SS12 Code for Cause Accessibility Competition**
+- **Learn Python Programming Masterclass:** Issued Apr 2021
 
 ---
 
