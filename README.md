@@ -76,9 +76,8 @@
 
 ## 📊 GitHub Stats  
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vaish1405&show_icons=true&theme=blue_navy" alt="GitHub Stats" /> </p>  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaish1405&show_icons=true&locale=en&layout=compact" alt="vaish1405" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaish1405&show_icons=true&locale=en" alt="vaish1405" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaish1405&" alt="vaish1405" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaish1405&show_icons=true&locale=en&layout=compact&theme=blue_navy" alt="Top Languages" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaish1405&theme=blue_nave" alt="Git Streak" /></p>
 
 ---
 
